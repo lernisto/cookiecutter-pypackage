@@ -2,7 +2,7 @@
 Contributing
 ============
 
-Contributions are welcome, and they are greatly appreciated! Every
+Contributions are welcome, and they are greatly appreciated. Every
 little bit helps, and credit will always be given.
 
 You can contribute in many ways:
@@ -51,7 +51,7 @@ If you are proposing a new feature:
 * Remember that this is a volunteer-driven project, and that contributions
   are welcome :)
 
-Get Started!
+Get Started
 ------------
 
 Ready to contribute? Here's how to set up `cookiecutter-pypackage` for local development. Please note this documentation assumes
